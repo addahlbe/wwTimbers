@@ -55,7 +55,6 @@ env/
 *egg/
 *-ck.js
 *.js.min
-*.css
 
 # Clusterflunk #
 ################
