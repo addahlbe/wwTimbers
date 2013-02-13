@@ -5,7 +5,7 @@
     </head>
     <body>
         <div id="container">
-            <div id="header"><h1>History</h1></div>
+            <div id="header"><h1>Structures</h1></div>
 
             <div id="subheader"><h2>
                 <div></div>

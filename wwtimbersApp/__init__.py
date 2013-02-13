@@ -31,7 +31,7 @@ def main(global_config, **settings):
     # HOME
     config.add_route('index', '/')
     config.add_route('history', '/history')
-    config.add_route('glu-lam/decking', '/glu-lam/decking')
+    config.add_route('decking', '/decking')
     config.add_route('solid-timbers', '/solid-timbers')
     config.add_route('outdoor-structures', '/outdoor-structures')
     config.add_route('crane-pads', '/crane-pads')

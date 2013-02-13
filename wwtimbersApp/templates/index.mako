@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Power Hour</title>
+        <title>W.W. Timbers</title>
         <link rel="stylesheet" type="text/css" href="/style/mystyle.css"/>
     </head>
     <body>
@@ -8,15 +8,16 @@
             <div id="header"><h1>W.W. Timbers, INC.</h1></div>
 
             <div id="subheader"><h2>
-                <div>Home</div>
-                <div>History</div>
-                <div>Glu-Lam/Decking</div>
-                <div>Solid Timbers</div>
-                <div>Outdoor Structures</div>
-                <div>Crane Pads</div>
-                <div>Repair Work</div>
-                <div>Brocuhre</div>
-                <div>Contact Us</div></h2>
+                <div></div>
+                <div><a href="/">Home</a></div>
+                <div><a href="/history">History</a></div>
+                <div><a href="/decking">Glu-Lam/Decking</a></div>
+                <div><a href="/solid-timbers">Solid Timbers</a></div>
+                <div><a href="/outdoor-structures">Outdoor Structures</a></div>
+                <div><a href="/crane-pads">Crane Pads</a></div>
+                <div><a href="/repair-work">Repair Work</a></div>
+                <div><a href="/brochure">Brocuhre</a></div>
+                <div><a href="/contact-us">Contact Us</a></div></h2>
             </div>
 
             <div id="wrapper">

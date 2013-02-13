@@ -20,7 +20,7 @@ def history(request):
     return {}
 
 
-@view_config(route_name='glu-lam/decking', renderer='wwtimbersApp:templates/decking.mako', permission=NO_PERMISSION_REQUIRED)
+@view_config(route_name='decking', renderer='wwtimbersApp:templates/decking.mako', permission=NO_PERMISSION_REQUIRED)
 def decking(request):
     return {}
 

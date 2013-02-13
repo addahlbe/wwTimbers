@@ -55,8 +55,3 @@ env/
 *egg/
 *-ck.js
 *.js.min
-
-# Clusterflunk #
-################
-.sass-cache/
-pyramid-redis-sessions/
