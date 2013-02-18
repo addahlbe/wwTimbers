@@ -22,9 +22,27 @@
 
             <div id="wrapper">
                 <div id="content">
-                    <h2> Welcome to W.W. Timbers, INC... </h2>
                     <div>
-                        <p></p>
+                    <h2> OUR HISTORY extends to over 35 years of experience in HEAVY TIMBER CONSTRUCTION </h2>
+                    </div>
+                    <br>
+                    <br>
+                    <div>
+                        <p>
+                            W.W. Timbers, Inc. was founded in 1986 and is owned and operated by Philip Weibel, President and Leonard Schultz, Vice President.  Phil mostly handles the business aspects of the company such as in-house bidding and contractor relations, while Lenny spends most of his hours coordinating and overseeing the day-to-day on-site operations and reviewing plans.
+                        </p>
+                        <p>
+                            With approximately 20 employees, we can handle any size job big or small.  Our office is located in Chicago Ridge, IL. Tony Videka came on board as our Chief Estimator in 1993.   Our full time Office Manager, Debbie, joined us in 1998.  Nancy does invoicing and accounts receivables and has been involved with the company from the start.  Since 2004, Shirley has been in charge of payroll and union responsibilities.  We are a good team and enjoy what we do!
+                        </p>
+                        <p>
+                              Though based in the Chicago land area, we have done projects not only in the Midwest, but also from Utah and Nebraska over to Vermont and down the coast to Key West, Florida.
+                        </p>
+                        <p>
+                              Every job is unique and important to W. W. Timbers. We focus on high standards and strive for excellence for customer satisfaction. Each job is a form of advertisement from the range of work we do, so every detail counts. Over the years we have had the opportunity to work with some of the biggest and best general contractors. These quality relationships are very important to us.
+                        </p>
+                        <p>
+                              For more than 25 years Philip Weibel and Leonard Schultz have built W. W. Timbers into the fine company it is today. When your project calls for heavy timber construction, call W. W. Timbers, Inc., the experienced professionals.
+                        </p>
                     </div>
                 </div>
             </div>
